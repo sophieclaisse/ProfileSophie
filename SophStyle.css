@@ -1,0 +1,134 @@
+body{
+    height: 1800px;
+    font-family: "Calibri";
+    color: darkblue;
+    font-size: 16px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d0e4f7+0,73b1e7+24,0a77d5+50,539fe1+79,87bcea+100;Blue+Pipe+%231 */
+    background: rgb(208,228,247); /* Old browsers */
+    background: -moz-linear-gradient(-45deg, rgba(208,228,247,1) 0%, rgba(115,177,231,1) 24%, rgba(10,119,213,1) 50%, rgba(83,159,225,1) 79%, rgba(135,188,234,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', endColorstr='#87bcea',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.All{
+    margin: auto;
+    width: 80%
+}
+
+.BLOC1{
+    position: absolute;
+    width: 80%;
+    height: 300px;
+}
+
+#Soph{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+
+
+h1, h2{
+    position: relative;
+    top: -90px;
+    left: 200px;
+    font-family:fantasy;
+}
+h1{
+    color: white;
+    text-shadow: 1px 1px 1px darkblue;
+    font-size: 30px;
+    line-height: 25px;
+}
+
+h2 {
+    font-style: italic;
+    text-shadow: 1px 1px 1px white;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+#world {
+    position: relative;
+    top: -220px;
+    left: 600px;
+}
+
+.BLOC2 {
+    position: absolute;
+    top: 55%;
+    text-align:center;
+    font-weight: bold;
+    margin: auto;
+    width: 79%;
+}
+
+#ondes{
+    position: absolute;
+    top: 250px;
+    left: 1px;
+    height: 50px;
+    width: 80%;
+}
+
+.BLOC3{
+    position: absolute;
+    text-align:center;
+    padding: 5px;
+    height: 50%;
+    top: 75%;
+}
+
+ul{
+    text-align: left;
+}
+.Films{
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    padding: 10px;
+    width: 250px;
+    background-color: lightblue ;
+    border: 5px ridge darkblue;
+
+}
+
+.Lectures {
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    padding: 10px;
+    width: 250px;
+    background-color: lightblue;
+    border: 5px ridge darkblue;
+
+
+}
+
+.Musique {
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    padding: 10px;
+    width:250px;
+    background-color: lightblue;
+    border: 5px ridge darkblue;
+}
+
+
+
+.BLOC4{
+    position: absolute;
+    top: 120%;
+    left: 45%;
+}
+
+#Follow {
+    position: relative;
+    color: darkblue;
+    Font-weight: bold;
+    font-size: 24px;
+    left: 9px;
+    text-shadow: 1px 1px 1px white;
+}
